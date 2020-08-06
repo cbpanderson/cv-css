@@ -1,0 +1,121 @@
+/*****************Tag Selectors*********/
+a{
+	color: #11999E;	
+}
+body {
+	color:#40514E;
+	margin: 0px;
+	text-align: center;
+	font-family: 'Red Rose', cursive;
+
+}
+h1{
+	margin: 100px auto 0 auto;
+	font-family: 'Tangerine', cursive;
+	font-size: 6rem;
+	color: #66BFBF;
+}
+h2{
+	margin: 0px;
+	text-align: center;
+	font-family: 'Red Rose', cursive;
+	font-size: 2rem;
+	font-weight: normal;
+	color: #66BFBF
+
+}
+h3{
+	color: #11999E;
+}
+hr{
+	border-style: none;
+	border-top: dotted 8px gray;
+	width: 4%;
+	margin: 100px auto;
+}
+p{
+	line-height: 1.7;
+}
+
+
+/*****************Class Selectors*********/
+
+
+.bottomCloud{
+	position: absolute;
+	top: 20%;
+	left: 30%;
+}
+.bottomContainer{
+	background-color: #66BFBF;
+	padding: 50px 0px 50px 0px;
+	font-family: 'Red Rose', cursive;
+}
+.btn {
+  background-color: #66BFBF;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 10px;
+  margin: 50px auto 50px auto;
+}
+.copyrightText{
+	margin-top: 60px;
+	color: white;
+}
+.footer-link{
+	text-decoration: none;
+	color: #11999E;
+	font-size: 16pt;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.iconAttribution{
+	text-decoration: none;
+	color: gray;
+}
+.middleContainer{
+	margin-top: 50px;
+}
+.profilePicture{
+	margin: 100px auto 100px auto;
+	width: 20%;
+}
+.profileText{
+	color: #40514E;
+	padding-bottom: 50px;
+	display: inline-block;
+	width: 20%;
+}
+.skillIconHTML{
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+
+}
+.skillIconTeam{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+
+}
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+}
+.topCloud{
+	position: absolute;
+	top: 5%;
+	left: 60%;
+}
+.topContainer{
+	background-color: #EAF6F6;
+	padding-top: 100px;
+}
+
+/*****************ID Selectors*********/
